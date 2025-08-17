@@ -16,6 +16,7 @@ function mostrarPersonaje() {
         "mati": { nombre: "Ferb de tussi", img: "https://i.pinimg.com/1200x/41/d7/f1/41d7f18ddb2dec362581c5a5302902b8.jpg" },
         "gabriel": { nombre: "Agente Chajá", img: "https://i.pinimg.com/736x/e4/cf/e4/e4cfe4f6089a607074578225b2c9f324.jpg" },
         "eduardo": { nombre: "...", img: "https://i.pinimg.com/736x/1e/54/40/1e5440bbb804c55c08f256c9b858ca44.jpg" },
+        "marcos": { nombre: "...", img: "https://m.media-amazon.com/images/S/pv-target-images/0ddf85ffe1548e68142ef09f17bfe0c5450ca019e100bef1c59f762d3aa4e62d.jpg" },
     };
 
     if (personajes[nombre]) {
