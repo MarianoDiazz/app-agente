@@ -11,7 +11,7 @@ function mostrarPersonaje() {
         "chiqui": { nombre: "Pinky el Chihuahua", img: "https://i.pinimg.com/736x/0e/ee/a5/0eeea5f88d1c381ac0e056bfa58b47ca.jpg" },
         // "sofia": { nombre: "Candace Flynn", img: "https://i.pinimg.com/236x/c4/70/b7/c470b78f646798ae0a99a31f0a8a9ab1.jpg" },
         "mariano": { nombre: "eee", img: "https://i.pinimg.com/1200x/45/1d/f0/451df0d3770fe2301d10c811b29f066e.jpg" },
-        "tarro": { nombre: "Isabella Garcia-Shapiro", img: "https://static.wikia.nocookie.net/disney/images/7/74/Newton%C3%91u.png/revision/latest?cb=20120827081719&path-prefix=es" },
+        "juanco": { nombre: "El oso pipero", img: "https://i.pinimg.com/736x/38/cb/07/38cb0763dadfe70c7cb8a48aa87eb229.jpg" },
         "facundo": { nombre: "...", img: "https://i.pinimg.com/736x/9f/28/9d/9f289d27286afc68d4612e0b252577d4.jpg" },
         "mati": { nombre: "Ferb de tussi", img: "https://i.pinimg.com/1200x/41/d7/f1/41d7f18ddb2dec362581c5a5302902b8.jpg" },
         "gabriel": { nombre: "Agente Chajá", img: "https://i.pinimg.com/736x/e4/cf/e4/e4cfe4f6089a607074578225b2c9f324.jpg" },
